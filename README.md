@@ -19,14 +19,15 @@ GitHub Pages: Hosting the website for easy access.
 
 HOW TO USE-:
 Clone or download this repository to your local machine.
-Open the index.html file in your web browser to access the to-do list application.
-Contributing
+Open the todolist.html file in your web browser to access the to-do list application.
+
+CONTRIBUTING-:
 Contributions are welcome! If you'd like to enhance this to-do list web app or report issues, please feel free to create a pull request or submit an issue.
 
-License
+LICENCE-:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+ACKNOWLEDGEMENTS-:
 Inspired by the need for a simple and effective to-do list tool.
 Built with a passion for productivity and web development.
 Feel free to customize this description to match your specific project details, and don't forget to include any additional sections or information that you find relevant.
